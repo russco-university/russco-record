@@ -1,0 +1,85 @@
+{
+  "built_on": "2026-09-30",
+  "commit": "4d6f0503a3e8486f4788259cbbaecc6c1b16c8df",
+  "export": {
+    "campaigns": {
+      "marufinas-school-kits": {
+        "funding": "foundation",
+        "goal_amount": null,
+        "partner_id": null,
+        "status": "completed",
+        "title": "School kits for Marufinas Integrated School"
+      }
+    },
+    "disclosures": {
+      "compensation": {
+        "body": "Russco Jarvina receives no salary, fee, commission, or percentage from any campaign listed on this site. No funds pass through any account he controls. Donations go directly from donor to partner organisation. If this ever changes, this page changes first and the change is dated.",
+        "effective_from": "2026-02-01",
+        "last_reviewed_on": "2026-07-20",
+        "title": "What Russco receives"
+      },
+      "funding-source": {
+        "body": "Hosting, domain, and production costs are paid personally by Russco Jarvina. No campaign funds are used for the operation of this website or for video production. Partner-side administrative costs, where they exist, are itemised separately in every campaign ledger.",
+        "effective_from": "2026-02-01",
+        "last_reviewed_on": "2026-07-20",
+        "title": "Who pays for this site"
+      }
+    },
+    "entries": {},
+    "partners": {},
+    "resolutions": {},
+    "schools": {
+      "marufinas-is": {
+        "deped_school_id": "111524",
+        "enrollment": null,
+        "name": "Marufinas Integrated School"
+      }
+    },
+    "unfavourable": {}
+  },
+  "fingerprint": "19724b0d7b9d32a2e5e18825655f85b40285dbf667f0659b33d34379b261e091",
+  "manifest": {
+    "_headers": "4af8c06c792955ede89529164f94f150080bbf1a40e7258d58998673cec0b925",
+    "assets/css/fonts.css": "61668ff8634a0e56f38efcd018c90fbb0e47d593cce65410a36d0c93825ba579",
+    "assets/css/site.css": "9e857b0a5186f0c423fd8fbb834b0beacc63e8c0b95d72c18318c00fe4aff888",
+    "assets/css/tokens.css": "335703724c5b66174c43db400ea41adb1aeee0aa03e4d1f988e187f8c152af56",
+    "assets/fonts/LICENSE-ibm-plex-mono.txt": "23b0a9d0c6d3f140a0b77e483c5cfa6bba574325ef5cb189ed9f2fec4884533f",
+    "assets/fonts/LICENSE-inter.txt": "3b0a5fca3d17942cde889069889dedbbbd075e9b599968c82a95f4d944e9b345",
+    "assets/fonts/LICENSE-playfair-display.txt": "c052aafd2a71e90bcee6e69f475029d430a10d548c08ffcae350171f0e9668b1",
+    "assets/fonts/ibm-plex-mono-latin-400-normal.woff2": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7",
+    "assets/fonts/ibm-plex-mono-latin-500-normal.woff2": "01d285447409c8a588692162439a038b8cbd7871309ee20267b0d2d91c6e8e22",
+    "assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2": "6bc0f226a5b7884a8170e3f62c63d7675609d4631bdc5931b5cdab81821f00eb",
+    "assets/fonts/ibm-plex-mono-latin-ext-500-normal.woff2": "6bb06407c97584b0867a959e05e8874693bfeb8c317de190811c51598f2d99ea",
+    "assets/fonts/inter-latin-ext-wght-normal.woff2": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+    "assets/fonts/inter-latin-wght-normal.woff2": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+    "assets/fonts/playfair-display-latin-ext-wght-normal.woff2": "42898ad49a6b23f32b109243e1df596edf831015ed685f429e4dafbb181d599d",
+    "assets/fonts/playfair-display-latin-wght-normal.woff2": "e0c764a8e9e1cce92163c55bac4b2ad6cd4cf8c696ce2289ab5c41565e65b7e2",
+    "assets/img/apple-touch-icon.png": "d53f45cded1a30e2bcdba19c408f9df221d84b9c4c68bf3c6450c44b488b7001",
+    "assets/img/grain.png": "7c962f9d6d321aebf5035ae3f41d6bb2a9a2961ece9b3fab497270a2736d365e",
+    "assets/img/icon-32.png": "67de5092a97007fa9b854f3bc560803148ed8fd93c9f2e73435d49d20cd020ba",
+    "assets/img/og-card.png": "148c205b2d763f7611699a07cd933e7f1488d0f7fcf5697740e52e85e199ee6d",
+    "assets/img/people/hero-portrait.webp": "6628390206a3ee25e1f3b7821663c6ac3d762685376e2023dd924865bc39ae38",
+    "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
+    "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
+    "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
+    "campaign-marufinas-school-kits.html": "2e26eb6a8ddaf098b788b0640a34dd4c4b4d7883d44fac9d968910a182a25d0e",
+    "campaigns.html": "7da935ff699a91268e3d4412e3aec7abe5ba5c1b9c45980c37446ba674d74c7b",
+    "contact.html": "888196adc0657e09608acc147a433bab96746a951d2ceb0b7bc5634911d42fc9",
+    "corrections.html": "8ccc1f045c4768b34e3fde88e2720b1de0b8455514b9f771060e278e2e43ddf4",
+    "disclosures.html": "a2e0835ff6048ace9388ae3604c705b119e7670b7e5f2a554acb0cafd5cc79da",
+    "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
+    "fil/index.html": "0bcaa4505053d3e7f1de7d1debabaa40f34b4d1f8009298c0b791d74a8892dbb",
+    "history.html": "8b0815c3052a7b557981819504b4f7057e6a05c4cade537ddca17212b4abe2b5",
+    "index.html": "24ac2258811e67df55ea11203f5e3a10fb6988271e5928105e88d23a21a20775",
+    "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
+    "ledger-school-marufinas-is.html": "244ac802aa2a7f8387075e986f3e6e4090e047712dc8590d43fabfbcbae4b064",
+    "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
+    "ledger.html": "db3d5bc6f9a2c26bfae0c30afbd36e840814d13a9524819e10470fba24845811",
+    "partners.html": "2de11c92c5c28e8a094cfef74e03da1b70f600ea16712e41808fecbac347c487",
+    "schools.html": "dbcbfe97b84c92ce0fdbda5d5b9267e6ab8f46237266350ada5e4d80312289cf",
+    "transparency.html": "2c73b7d0bcb7a8ebaf99d5d9c7a4b015f3fbcabf34a58532322ae442b3dc16ac"
+  },
+  "toolchain": {
+    "python": "3.12.14"
+  }
+}
