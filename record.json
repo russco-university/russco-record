@@ -1,6 +1,6 @@
 {
   "built_on": "2026-09-30",
-  "commit": "0d3ca818c38286f4eb78a7c414ea9ce1b1417ed6",
+  "commit": "16ea826b0ed3bca4577dd497d63e8a782f530c61",
   "export": {
     "campaigns": {
       "marufinas-school-kits": {
@@ -41,7 +41,7 @@
   "manifest": {
     "_headers": "4af8c06c792955ede89529164f94f150080bbf1a40e7258d58998673cec0b925",
     "assets/css/fonts.css": "61668ff8634a0e56f38efcd018c90fbb0e47d593cce65410a36d0c93825ba579",
-    "assets/css/site.css": "5bd92402f984b1750f9da47015e56d997c0ab2418dafbb746f0a465c10359d40",
+    "assets/css/site.css": "1daf9bc32372990a9c23c0261b77882c0b693801f7aac9952f8e20a1063d6484",
     "assets/css/tokens.css": "335703724c5b66174c43db400ea41adb1aeee0aa03e4d1f988e187f8c152af56",
     "assets/fonts/LICENSE-ibm-plex-mono.txt": "23b0a9d0c6d3f140a0b77e483c5cfa6bba574325ef5cb189ed9f2fec4884533f",
     "assets/fonts/LICENSE-inter.txt": "3b0a5fca3d17942cde889069889dedbbbd075e9b599968c82a95f4d944e9b345",
@@ -62,25 +62,25 @@
     "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
     "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
-    "campaign-marufinas-school-kits.html": "c19ce7dcb1304eaf831717bb1c5e29ef5f927fb6e5d9fddc231f6c7e6e699b04",
-    "campaigns.html": "615392ffb9adc559ec13f073715844f8b0605f4d23ad9f73aabee2c119aab013",
-    "contact.html": "1f6c38dd28d302783e65b2189ac532f3b75f3c6a1b9334e95f06ff930fde3bb8",
-    "corrections.html": "ac26d2920e0f56883ad80603aa70ede597161d01436445cf78e3942f8af04334",
-    "disclosures.html": "5e7f0cb1d3891c5b813982f3a62a28188cc2aa8d7a9dc4e7a03997ade7f8f5a5",
+    "campaign-marufinas-school-kits.html": "1adeab6246d80814d2f9e819e768032b87f8fe4e5de5bec6c2cfd4d8dadda18e",
+    "campaigns.html": "c2c0a73fdd865daea929ee973ef6dc3b73d9abcb90db5c6284d05dbe53b251bc",
+    "contact.html": "a6a159e7b6321fc3e206c5faa42e07f1d211ac2762cac6bd268b65e6054108c9",
+    "corrections.html": "8947027b2618a08ee0a56fe035600367f899c1d7f26e178966099dea375d2b85",
+    "disclosures.html": "f1866d56e93c0b51e0826e211d87e1443639ec839983d183546aec1cc65e4c5d",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
-    "fil/index.html": "51a96fcb0b26ba0baaff7180378ce830dd3cc912e63fc4b18780c4ad372bd555",
-    "history.html": "c8ec1e717656f793b9624b15b1654e73524d0d728de8e0f9cbe5434782ebf2f6",
-    "index.html": "ab165c5f50851477116d09362b09b06cd727f864d81c158563fd9381a546c1eb",
+    "fil/index.html": "7727fea70edc0a5fadf75cc5fe271ed30085b092b1a5e857250d9dac7ca45e36",
+    "history.html": "83efdf67feeac4b1138dd4404913c7186366773309515aea777bcbee2dc2a4a9",
+    "index.html": "7301106dd11e1ad43db4e91a0738df23d6490355556522d0796f6c259adb2536",
     "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger-school-marufinas-is.html": "454c1d082097c8960b925e18580ead22705cfb8ab0fe70441329709fd854f63d",
+    "ledger-school-marufinas-is.html": "a29507017361b49f29d22c5952486ea6d8127f327cc69795a562e88a67c3362b",
     "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger.html": "9dcbb1907b7fd20cc66d0e7a51cbbef912f92412364274a255b187998612c97c",
+    "ledger.html": "014f9704b6c8ee0cb0ab3e7f0ca769f6329b1e09bb7ae9a7161068aa53c8e661",
     "media/campaigns/marufinas-handover.jpg": "7e26e11bdfd95d4425af964a1271f5c352063986a250d2d2f5cf1a960346e073",
     "media/campaigns/marufinas-kits.jpg": "250f285b4c38252705f7e80fc351b1eff8e24fc044652a1f6b0763bb5f34f8e9",
     "media/campaigns/marufinas-markers.jpg": "cabb6591efab89406a6cbf79586c4fb58862c136a56b7e17af38cfc9da31b781",
-    "partners.html": "915e64ddb20b7ba5e5691b6f4053274032cf326e1395ed8ca60b0cd967b495b5",
-    "schools.html": "bc0d6f4c2f530049816521e308c5d6d6aece54193875399a817048c664d080de",
-    "transparency.html": "b0e1e68729b96c053b7525efc4dbc94c8d5d93aae7f91e2d2e10a556455a3623"
+    "partners.html": "5c5d9125d72c7721d2462af4be00bf4e998f9d7d607b88a96bc017c7c76d2f7a",
+    "schools.html": "88b18ae779b3f496b5b83f7ca811ce68101c2682c715537c1782899f8128a3cd",
+    "transparency.html": "0e4f9d5bfd0a37fd832ec72f1311b98b1d156b48b54d59b5db67299e601a2122"
   },
   "toolchain": {
     "python": "3.12.14"
