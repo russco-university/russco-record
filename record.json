@@ -1,5 +1,5 @@
 {
-  "built_on": "2026-10-03",
+  "built_on": "2026-10-04",
   "commit": "20bf99f1632d5cb89eb25ac96604d198770e65c2",
   "export": {
     "campaigns": {
@@ -62,27 +62,27 @@
     "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
     "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
-    "campaign-marufinas-school-kits.html": "a27ca07f1bfd3426ab00052f4f378b07fc1fd2d9b70740979aa528334449d0af",
-    "campaigns.html": "6e54fed0f3c1f297088c5f04dd14e3443c6cc2a16563ecbdd88478548eb0e61d",
-    "contact.html": "ed6b65066b82f97479b9303779d12f01cddb55043b3d1418551e39b0ea7d4bed",
-    "corrections.html": "ce52ad997b2d5f1c9367393c98b819115c56b2dc7117c04052f2b1fc4634e13e",
-    "disclosures.html": "73f83761cebaf87be8ecb0ede4f9924459c72d0bf5eaad13c6e4ba947d894d0f",
+    "campaign-marufinas-school-kits.html": "4a96087990285f406ec070f5fc6d1ea81058669c944c7e72c611efdc65d62238",
+    "campaigns.html": "5caab3f6f2d3afe16955cc00311a524979b32ba93074c8eaef875e14ef9958ad",
+    "contact.html": "2b57e54f67ca2e53cb275c5e1a2445d950891500ed8aa5b1ddb8704190f30cfa",
+    "corrections.html": "898973ca57654c6e9ee3a078454826dd69a835ffbe227ecd0400d7715ea618c7",
+    "disclosures.html": "7ebf40f380eca9d429741b5e30b6ffde8c8b42081e3b6ec87abf7fe107721d43",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
-    "fil/index.html": "e4173b9dbf2518654b47b4b86fe305e74e94f4fb488d98a916898c6b6813d413",
-    "history.html": "5ac8c2f5a5355d182fc50ff7953426a81a11dacd4b89e4524d11052677ace548",
-    "index.html": "f309edea50bf8f2531631082075821756b2124d1cad54fc40ce8785691218d21",
+    "fil/index.html": "b7a7c8b88cfd71ee789c604ed1fd94a3a6c89e4307a139e7b2e99eee7ce90592",
+    "history.html": "4158284a2ffe028485cebdb72dd59a47324061d28414aac1247a09087ff1f0e1",
+    "index.html": "f0341565931bf81b39a4dc4165e816411946d580db8cfce32cb709615fec8691",
     "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger-school-marufinas-is.html": "555fc933518c3cba572d657932689963f7b469daed54e1674bdc031543887698",
+    "ledger-school-marufinas-is.html": "a655c2c1d8460d7d60638d6c04d161d4660c70ce873b787edb88286db3622b4c",
     "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger.html": "baac345fadf2cd9427099493250a8e78b2cf0a035fa0661f14526324eeb2719f",
+    "ledger.html": "42bf71bb997f23e208751100dff30ce15e4517f04da2a43e0296b4773958c0cb",
     "media/campaigns/marufinas-handover.jpg": "7e26e11bdfd95d4425af964a1271f5c352063986a250d2d2f5cf1a960346e073",
     "media/campaigns/marufinas-kits.jpg": "250f285b4c38252705f7e80fc351b1eff8e24fc044652a1f6b0763bb5f34f8e9",
     "media/campaigns/marufinas-markers.jpg": "cabb6591efab89406a6cbf79586c4fb58862c136a56b7e17af38cfc9da31b781",
     "media/campaigns/marufinas-russco-class.jpg": "f89d08c39a2ba26490d49edbff678b52dc8811910313a61fa55615dc83cc5891",
-    "partners.html": "481f2f8e76140cee1f3b5f4e28588aca15eeecca6fa6f3f18bfd05c378c7ac0f",
-    "schools.html": "5966a6b52158b5dd0ccac633f15b4a0b88b3a2c821f878f655c300525f3fd5d1",
-    "transparency.html": "f7f2ecb897fa2431c4c7a2df8eb891b851db44021c28b519db00098bcacccd34",
-    "volunteer.html": "de486842509d9888381c0c6abf19c62272a4a2ddfb5d78e63e0eafadd76562be"
+    "partners.html": "5d0416242d551242706b12aa19d3715767eb2ae5b71426f711be7ea3b25e196c",
+    "schools.html": "4656c9ad93ba8ff179b0175f521d4cd789e650b79f7b70530bc8847210acb1ac",
+    "transparency.html": "3c7f8582af901bf73810f0ef309b94cf788f5e55e6cb57c767d57daadd179746",
+    "volunteer.html": "f42463e1838fbfb510052bca24f5ae1088374b7547b6224a2cf2b3a0c187715f"
   },
   "toolchain": {
     "python": "3.12.14"
