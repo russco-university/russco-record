@@ -1,6 +1,6 @@
 {
   "built_on": "2026-10-04",
-  "commit": "20bf99f1632d5cb89eb25ac96604d198770e65c2",
+  "commit": "e590f68f31d5d6549591ba543f224837ac4643d2",
   "export": {
     "campaigns": {
       "marufinas-school-kits": {
@@ -13,13 +13,13 @@
     },
     "disclosures": {
       "compensation": {
-        "body": "Russco Jarvina receives no salary, fee, commission, or percentage from any campaign listed on this site. No funds pass through any account he controls. Donations go directly from donor to partner organization. If this ever changes, this page changes first and the change is dated.",
+        "body": "Russco Jarviña receives no salary, fee, commission, or percentage from any campaign listed on this site. No funds pass through any account he controls. Donations go directly from donor to partner organization. If this ever changes, this page changes first and the change is dated.",
         "effective_from": "2026-02-01",
         "last_reviewed_on": "2026-07-20",
         "title": "What Russco receives"
       },
       "funding-source": {
-        "body": "Hosting, domain, and production costs are paid personally by Russco Jarvina. No campaign funds are used for the operation of this website or for video production. Partner-side administrative costs, where they exist, are itemised separately in every campaign ledger.",
+        "body": "Hosting, domain, and production costs are paid personally by Russco Jarviña. No campaign funds are used for the operation of this website or for video production. Partner-side administrative costs, where they exist, are itemised separately in every campaign ledger.",
         "effective_from": "2026-02-01",
         "last_reviewed_on": "2026-07-20",
         "title": "Who pays for this site"
@@ -37,7 +37,7 @@
     },
     "unfavourable": {}
   },
-  "fingerprint": "295e3cb790312e48135b342b64477e826f2c6389f297b981a1c1cce61766b54d",
+  "fingerprint": "885cf253db97295e9177ae889cd63ab1a8a0dd50dfd02ebdad5f96bbd00db4bc",
   "manifest": {
     "_headers": "4af8c06c792955ede89529164f94f150080bbf1a40e7258d58998673cec0b925",
     "assets/css/fonts.css": "61668ff8634a0e56f38efcd018c90fbb0e47d593cce65410a36d0c93825ba579",
@@ -66,11 +66,11 @@
     "campaigns.html": "5caab3f6f2d3afe16955cc00311a524979b32ba93074c8eaef875e14ef9958ad",
     "contact.html": "2b57e54f67ca2e53cb275c5e1a2445d950891500ed8aa5b1ddb8704190f30cfa",
     "corrections.html": "898973ca57654c6e9ee3a078454826dd69a835ffbe227ecd0400d7715ea618c7",
-    "disclosures.html": "7ebf40f380eca9d429741b5e30b6ffde8c8b42081e3b6ec87abf7fe107721d43",
+    "disclosures.html": "ad0af8109369268c5a8d262ef875b73650364363a906ebe13686ee1537bde7d5",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
-    "fil/index.html": "b7a7c8b88cfd71ee789c604ed1fd94a3a6c89e4307a139e7b2e99eee7ce90592",
+    "fil/index.html": "7c3be7fffa5d3b69087d68c50c9c9f513bf53a1aabf4de246793bdeea3c873a2",
     "history.html": "4158284a2ffe028485cebdb72dd59a47324061d28414aac1247a09087ff1f0e1",
-    "index.html": "f0341565931bf81b39a4dc4165e816411946d580db8cfce32cb709615fec8691",
+    "index.html": "150ed5d33551318581ac54a5b99775c61b57c74b71eb4067a5e67b8b95841be0",
     "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
     "ledger-school-marufinas-is.html": "a655c2c1d8460d7d60638d6c04d161d4660c70ce873b787edb88286db3622b4c",
     "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
