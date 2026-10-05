@@ -1,6 +1,6 @@
 {
   "built_on": "2026-10-05",
-  "commit": "05d32981f2cc122c6e942bc85513d88f1fd44554",
+  "commit": "f6d46d708857613954ceca56e3c1f34d8ff7525c",
   "export": {
     "campaigns": {
       "marufinas-school-kits": {
@@ -19,7 +19,7 @@
         "title": "What Russco receives"
       },
       "funding-source": {
-        "body": "Hosting, domain, and production costs are paid personally by Russco Jarviña. No campaign funds are used for the operation of this website or for video production. Partner-side administrative costs, where they exist, are itemised separately in every campaign ledger.",
+        "body": "Hosting, domain, and production costs are paid personally by Russco Jarviña. No campaign funds are used for the operation of this website or for video production. Partner-side administrative costs, where they exist, are itemized separately in every campaign ledger.",
         "effective_from": "2026-02-01",
         "last_reviewed_on": "2026-07-20",
         "title": "Who pays for this site"
@@ -37,7 +37,7 @@
     },
     "unfavourable": {}
   },
-  "fingerprint": "885cf253db97295e9177ae889cd63ab1a8a0dd50dfd02ebdad5f96bbd00db4bc",
+  "fingerprint": "c17e102ce6d19084a5ec83ccd5c95f750971bdd76684a62109117241aa8ba349",
   "manifest": {
     "_headers": "4af8c06c792955ede89529164f94f150080bbf1a40e7258d58998673cec0b925",
     "assets/css/fonts.css": "61668ff8634a0e56f38efcd018c90fbb0e47d593cce65410a36d0c93825ba579",
@@ -64,9 +64,9 @@
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
     "campaign-marufinas-school-kits.html": "c1bd36148d7c3fabe3458bb0dafb208c400e2eb6c867a98847bb05cc4727d7a0",
     "campaigns.html": "4b84a6ab84b2256758dc40fa40725592db0ecd610a65f39cccbabf693108bc5d",
-    "contact.html": "c908f2a3a4975bf1b6d3075d75fe77095bd9eed99e7977a74ee76693732d4a9a",
+    "contact.html": "cb8ba945a2547a393b0a5bda416ecd6fe2aeb640541e29255dd1a3ce1542011c",
     "corrections.html": "9c79248f1b8eca4aa117557ecf393bbdf3c50a4d076380bd530a1e4fa6dfebec",
-    "disclosures.html": "8913a72bd8f3ad028c5537bf022920e94594a8b801bb14f17e65f03a3f4abe7b",
+    "disclosures.html": "f145a7517be1471a9515bb6741ad7da9f97fb5848a153e30568a7496e0a662ac",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
     "fil/index.html": "770543b4b8d33702427705c23961a908b163a3a6c9577fd9fbb6c2f390acc8a5",
     "history.html": "9ff85ed84590db758f1e136cb2045703f4b81e371f4cf28e379da13bf44acd30",
@@ -81,7 +81,7 @@
     "media/campaigns/marufinas-russco-class.jpg": "f89d08c39a2ba26490d49edbff678b52dc8811910313a61fa55615dc83cc5891",
     "partners.html": "354686ff86730fc2e19d288a0b01cabaf57e9a9a626901a565bc452910b2eb13",
     "schools.html": "ae47984a1b9bc417aa567b1bcf47a633723217035cd2fc07671c763c4b83af0b",
-    "transparency.html": "c45453dcf9ab64e62aaf99db82967ab715be3740cdfa0c2a924581b75b14c737",
+    "transparency.html": "e6fedd3565e7c28b88bedf65c1388f39ff6c15529b9971c66daaea11cde8ddaf",
     "volunteer.html": "309ea4cc4ec77b61e30a535076edb51c19b72b9403def2926827acc0bd2fef3c"
   },
   "toolchain": {
