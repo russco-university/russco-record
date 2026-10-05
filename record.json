@@ -1,6 +1,6 @@
 {
   "built_on": "2026-10-05",
-  "commit": "f6d46d708857613954ceca56e3c1f34d8ff7525c",
+  "commit": "c146b309f29cb4bc3e031cefd27f87c6dbca8c11",
   "export": {
     "campaigns": {
       "marufinas-school-kits": {
@@ -41,7 +41,7 @@
   "manifest": {
     "_headers": "4af8c06c792955ede89529164f94f150080bbf1a40e7258d58998673cec0b925",
     "assets/css/fonts.css": "61668ff8634a0e56f38efcd018c90fbb0e47d593cce65410a36d0c93825ba579",
-    "assets/css/site.css": "7a396877df66ae0670d37fb35ff625d9228adca7fd512b0c4397ba68a32666c0",
+    "assets/css/site.css": "5cb19c7856300e21305ac781a500bf6687886976544c8c00fc4251d971c693a4",
     "assets/css/tokens.css": "335703724c5b66174c43db400ea41adb1aeee0aa03e4d1f988e187f8c152af56",
     "assets/fonts/LICENSE-ibm-plex-mono.txt": "23b0a9d0c6d3f140a0b77e483c5cfa6bba574325ef5cb189ed9f2fec4884533f",
     "assets/fonts/LICENSE-inter.txt": "3b0a5fca3d17942cde889069889dedbbbd075e9b599968c82a95f4d944e9b345",
@@ -62,27 +62,28 @@
     "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
     "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
-    "campaign-marufinas-school-kits.html": "c1bd36148d7c3fabe3458bb0dafb208c400e2eb6c867a98847bb05cc4727d7a0",
-    "campaigns.html": "4b84a6ab84b2256758dc40fa40725592db0ecd610a65f39cccbabf693108bc5d",
-    "contact.html": "cb8ba945a2547a393b0a5bda416ecd6fe2aeb640541e29255dd1a3ce1542011c",
-    "corrections.html": "9c79248f1b8eca4aa117557ecf393bbdf3c50a4d076380bd530a1e4fa6dfebec",
-    "disclosures.html": "f145a7517be1471a9515bb6741ad7da9f97fb5848a153e30568a7496e0a662ac",
+    "campaign-marufinas-school-kits.html": "332cc6b84538267380b059fc1904365bd7f69f789cac79ad6da06cbda0681369",
+    "campaigns.html": "e8e89e62ca991009669f5621ac3f9f36c9d22bcc9bae492ed0e28adf0a9cf8ad",
+    "contact.html": "50f9e0ec0c548f7ee16bae8c1c12e48446ae57eb2881f0ef40bad6d8c9c9c090",
+    "corrections.html": "2d60b00760aaffa40563d5c1e9e69f3692b93a9a06a3de5551d89a22e36799f6",
+    "disclosures.html": "8c0b853bfd7f3c1b7cfbd3dfeff47f40feaa49be954364dd3284fd7591cee5e6",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
-    "fil/index.html": "770543b4b8d33702427705c23961a908b163a3a6c9577fd9fbb6c2f390acc8a5",
-    "history.html": "9ff85ed84590db758f1e136cb2045703f4b81e371f4cf28e379da13bf44acd30",
-    "index.html": "3d036b91f0571bc0e0e622a7ce79db91146cda1ad74fba8565d88d860fcb4b7a",
+    "fil/index.html": "8098a2c0d226c49cea39a36d2205bc56234b6785266e30fcf7f9db06123932bf",
+    "history.html": "a6f9c49027c85d51d70c36f16982f3e55cb4ce288af6c593c7a1646999c18382",
+    "index.html": "1c4d912a1966e74e3336cf35aca9feedfc83a5e4ebbd153a7737a88b3951edb8",
     "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger-school-marufinas-is.html": "b122c4b883a4576f92040d62f526b85d299c98f7a680975cc033ec134392caee",
+    "ledger-school-marufinas-is.html": "075516111f4f6ca5eee694da2629d3e506eec9686380b5ec7cb7681016df7aec",
     "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger.html": "8b8b6de4678fa59f272fa01fe58f37dd4db4157e8965f04743e98d445d38eab4",
+    "ledger.html": "9713d8079d178a7d914707e44caece4f358560a2933551c3a629cbe8e28335bc",
     "media/campaigns/marufinas-handover.jpg": "7e26e11bdfd95d4425af964a1271f5c352063986a250d2d2f5cf1a960346e073",
     "media/campaigns/marufinas-kits.jpg": "250f285b4c38252705f7e80fc351b1eff8e24fc044652a1f6b0763bb5f34f8e9",
     "media/campaigns/marufinas-markers.jpg": "cabb6591efab89406a6cbf79586c4fb58862c136a56b7e17af38cfc9da31b781",
     "media/campaigns/marufinas-russco-class.jpg": "f89d08c39a2ba26490d49edbff678b52dc8811910313a61fa55615dc83cc5891",
-    "partners.html": "354686ff86730fc2e19d288a0b01cabaf57e9a9a626901a565bc452910b2eb13",
-    "schools.html": "ae47984a1b9bc417aa567b1bcf47a633723217035cd2fc07671c763c4b83af0b",
-    "transparency.html": "e6fedd3565e7c28b88bedf65c1388f39ff6c15529b9971c66daaea11cde8ddaf",
-    "volunteer.html": "309ea4cc4ec77b61e30a535076edb51c19b72b9403def2926827acc0bd2fef3c"
+    "media/schools/marufinas-is.jpg": "5ac25541c4f864d3feb1faaaf4415caf67533f9a254eaaa2c54d5c646409ac20",
+    "partners.html": "b099f090709998a711ef8dfe75a2c8fa3cda6ceab5376a924fbf8e7535fc77e3",
+    "schools.html": "655531bc57d5702321ed48af6be14e3179aa37d4f19bd8486a5a25bd59449093",
+    "transparency.html": "c2c560c9079c11c0ce0e12eeda80ae786d38ef6cb57c1b8cdb80e699a093248a",
+    "volunteer.html": "0241c169f61551f82088cb45249cc5fb64fa5a42375bb53527cf691fc9d389ff"
   },
   "toolchain": {
     "python": "3.12.14"
