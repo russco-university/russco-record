@@ -1,6 +1,6 @@
 {
   "built_on": "2026-10-21",
-  "commit": "6eb028bc85948e6fd8d35cd370cd0b44eebb65ea",
+  "commit": "00a3b88008e5030a0bca7fd9ad4f30c8f7494d29",
   "export": {
     "campaigns": {
       "marufinas-school-kits": {
@@ -77,7 +77,7 @@
     "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
     "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
-    "campaign-marufinas-school-kits.html": "e06232ce4c87b5b1a6f5f69950830c3d7fafb5b5fb4f6c418d09ed03c3cad38c",
+    "campaign-marufinas-school-kits.html": "b405fff5944dbd6fd6d217e2b4953343947ad25aea7d91529a982531833e3ce5",
     "campaigns.html": "f5a5a96ee2541a7a06dc91a1a39f300431b5c0b050fa7b9d970f1fcb2d704b45",
     "contact.html": "519b69e25e663eaf503997b7e7912e3f241c83012f8ed013eb848bdcc822f2e7",
     "corrections.html": "eaf4bf7cb9184d88e4185c68210f1c7ea50d01b373073a1b3979ecb6ba0c5821",
