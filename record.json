@@ -1,5 +1,5 @@
 {
-  "built_on": "2026-11-05",
+  "built_on": "2026-11-06",
   "commit": "00a3b88008e5030a0bca7fd9ad4f30c8f7494d29",
   "export": {
     "campaigns": {
@@ -77,31 +77,31 @@
     "assets/img/seal-48.png": "53708660c55210ffbcc87b70b5c42e944f6634232cd0dd4094b3cee797036724",
     "assets/img/seal-560.png": "770b080dbd69af5f8721c30f868b37e94664ab10dc079c628a6553eb9c6e7575",
     "assets/img/seal-96.png": "203bdbbdeebf8c6ad9969233a118792be699f8f9bf852f91be884aa4c0bff3e9",
-    "campaign-marufinas-school-kits.html": "67d8ead0d8c2562d09f5b158b12e1785cfe41e701712ed9a8cb78a4f1c2ddd00",
-    "campaigns.html": "3b955f906ada88c921c3a8315ed1b358d38e8c50f96d0fdba5ee5730ec0f99e7",
-    "contact.html": "d469dcc1f8834523ada259fc2dd67e07003db0680634aa35e9ed36d2025e5328",
-    "corrections.html": "2dd5154eec1ffe815fea6fffe62e34a232e91407066bb03b01ead7a459eac245",
-    "disclosures.html": "c9a555434ea087ca55793c6ce76cb0daf5aab779a9bf1a08150a0bff36a8e92b",
+    "campaign-marufinas-school-kits.html": "7ea1d0cb40cb9606a6bed270aa9f421343ce2a18e4e81731d005b1047992c4ea",
+    "campaigns.html": "ac8a5ad3408119a092bb60d249722d2541dc02ca7ee478b7328bb6c002fd84c4",
+    "contact.html": "c8ff1b843c186405a9e2b9bcd6115a8e0b281053df6aa4fd49529ac0f5d191d5",
+    "corrections.html": "22100e3d761b644ea2a00fbf0d57f3cdd6da673d9ab3bec02d9a6174df3c4519",
+    "disclosures.html": "28a9a89472a491e803d56add433312c245a4ae97d68362adc9c6439b52a79250",
     "favicon.ico": "228ce526f651f00faaf90ccd848fe2ec0b90d2039abc0f59e6fcb46c7a3891ce",
-    "fil/index.html": "fa89b50f1e1a81377a8b8b856b22f086a9995aa95ccdf196a9f5f97084d9cfdb",
-    "history.html": "87a88994664865147be449b9ad0b46aaef604937e32347108056ddcdc36031ae",
-    "index.html": "5c487621c9d3da98bc4776ecfe554c7862bc9caee8344b85945ac9fbeada90a4",
+    "fil/index.html": "3e439e54c5288be6141d58ad9c1241f9835264e124bdaaf63839209ada03d390",
+    "history.html": "ca309c1d6ee0e555c594cb3bccb8bd7f00ea6210538b654b61487aedcf9e8a81",
+    "index.html": "83bc1d5c1e4916e0ca55451bd8cf698beed6416c251c1f463dcf5d425add5efc",
     "ledger-school-marufinas-is.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger-school-marufinas-is.html": "9a1451ff6a4b18dabeccacfc2e9b55bb9bdb23cf5cb0d8089e87b3556dd7b842",
+    "ledger-school-marufinas-is.html": "20617b71e82a8374effa63878b8794271041b93dd4aa062eb7d0215f71b557a5",
     "ledger.csv": "a3c91c306da245d4a89e53ce3c51419b22ebbd86a9ad9f4783c58c84e96190aa",
-    "ledger.html": "39f2f4a3506c981776883ed11c2f70426ac625322b4083427b22c97393a7cee3",
+    "ledger.html": "70c85d60bea167d84611a9ff5796e0d4bc46dc3af24830aa0df810148db571b7",
     "media/campaigns/marufinas-handover.jpg": "7e26e11bdfd95d4425af964a1271f5c352063986a250d2d2f5cf1a960346e073",
     "media/campaigns/marufinas-kits.jpg": "250f285b4c38252705f7e80fc351b1eff8e24fc044652a1f6b0763bb5f34f8e9",
     "media/campaigns/marufinas-markers.jpg": "cabb6591efab89406a6cbf79586c4fb58862c136a56b7e17af38cfc9da31b781",
     "media/campaigns/marufinas-russco-class.jpg": "f89d08c39a2ba26490d49edbff678b52dc8811910313a61fa55615dc83cc5891",
     "media/partners/yellow-boat-of-hope.png": "31c0f55410843d331dc377e9b398c4eb5106c3932d9e72a765bf14c19d6394a2",
     "media/schools/marufinas-is.jpg": "5ac25541c4f864d3feb1faaaf4415caf67533f9a254eaaa2c54d5c646409ac20",
-    "partners.html": "a7c30b7c3b300bf50ad65c836bcfef0384b17749dbbec4da96f4b8039a547d72",
-    "schools.html": "2d72bac2b007e7fd96ceb61ab04467d64d7421431a28e6a4f67f8d739c0d8f95",
-    "transparency.html": "efaaaf57a870b5124ef07422a2a5a1e14efcdcb5cb489c1d914c8283e44496da",
-    "volunteer.html": "74a947b91b1fd8ca5c8bb876b36a02eda0d9725728adb4406eb3af1f068675c5"
+    "partners.html": "fe5dcddd6da4890a5126bcd144c69768e57d3df2d25fe418f85803cf17fa7d40",
+    "schools.html": "70a22ceda2f864fb5387410e0cc06d7e187a7171ff81756a208155d3d7878a5d",
+    "transparency.html": "0fb55df379e1c265f0ed2afe8c9a5a659cc1db7c336afb0bb314da17ad47facc",
+    "volunteer.html": "bfd89307d303840086292c719412ee05d6b16f55299ab4d9688b2ecf93730ab3"
   },
   "toolchain": {
-    "python": "3.12.15"
+    "python": "3.12.16"
   }
 }
